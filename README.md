@@ -1,5 +1,4 @@
 # json-server-deploy-digital-ocean
-# json-server-deploy-digital-ocean
 HAVE INCLUDED A NEW BASH SCRIPT TO AUTO DEPLOY TO THE POINT OF SECURE MYSQL INSTALLATION - 
 
 all you need is to git init ; git pull <this repo> ;
@@ -102,3 +101,5 @@ server {
 
 pm2:
 https://www.digitalocean.com/community/tutorials/how-to-set-up-a-node-js-application-for-production-on-ubuntu-20-04
+
+# json-server-deploy-digital-ocean
